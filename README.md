@@ -1,4 +1,3 @@
-# bit links
 # Bitlinks
 
 ## Getting Started
