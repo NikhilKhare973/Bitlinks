@@ -1,7 +1,25 @@
 # Bitlinks
 
-## Getting Started
 
+### About The Project
+
+![App Screenshot](screenshot/1.png)
+![App Screenshot](screenshot/2.png)
+![App Screenshot](screenshot/3.png)
+
+## Key components and functions of a blog website backend include:
+
+### Home Page
+
+- React.js.
+- Node.js.
+- CSS5.
+- Express.js.
+- MongoDB compress.
+- Next.js
+
+  
+## Getting Started
 First, run the development server:
 
 ```bash
@@ -34,4 +52,10 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-#
+
+# project details
+![App Screenshot](screenshot/4.png)
+![App Screenshot](screenshot/5.png)
+![App Screenshot](screenshot/6.png)
+![App Screenshot](screenshot/7.png)
+![App Screenshot](screenshot/8.png)
