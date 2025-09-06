@@ -1,0 +1,5 @@
+next.js projcet
+Enovation is - 1.login , 2. analytics - visits  count++ (databese)
+run :- npm run dev
+
+https://www.youtube.com/watch?v=Ojo_lo0djbQ&t=1887s
